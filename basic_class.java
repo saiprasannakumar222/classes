@@ -1,3 +1,4 @@
+
 class basic_class{
 public static void main(String[] args){
 basic_class b = new basic_class();
